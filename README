@@ -1,0 +1,11 @@
+# Base de Datos - PetCare
+
+Script SQL para el proyecto CRUD de mascotas.
+
+## Contenido:
+- Creación de base de datos
+- Creación de tabla Mascotas
+- Inserción de datos de prueba
+
+## Uso:
+Ejecutar en SQL Server.
